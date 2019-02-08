@@ -1,0 +1,12 @@
+Sex has a strong influence on the target variable, where men have a higher frequency of heart disease patiënts
+
+Respondents with the typical or asymptomatic chest pain type, seem to have the highest probability of getting a heart disease
+
+A fasting blood sugar (fbs) level of higher or lower than 120 mg/dl is not a good predictor of the target
+
+From the restecg (Resting electrocardiography results), a normal seems to have the highest impact on the target
+
+The presence of exang (exercise induced angina) has a relative strong impact on the target
+
+There is a high decrease in the probability of having a heart disease where respondents have an upsloping peak excercise slope
+thal might be a good predictor of the target variable
